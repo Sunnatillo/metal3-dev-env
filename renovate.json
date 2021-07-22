@@ -14,7 +14,8 @@
     {
       "datasources": ["docker"],
       "packageNames": ["kindest/node"],
-      "automerge": false 
+      "automerge": false,
+      "commitMessageTopic":"kindest/node",
     },    
     {
       "datasources": ["pypi"],
