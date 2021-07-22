@@ -15,7 +15,7 @@
       "datasources": ["docker"],
       "packageNames": ["kindest/node"],
       "automerge": false,
-      "commitMessageTopic":"kindest/node",
+      "commitMessageTopic": "kindest/node"
     },    
     {
       "datasources": ["pypi"],
@@ -29,7 +29,7 @@
   "rangeStrategy": "bump",
   "renovateFork": true,
   "includeForks": false,
-  "stabilityDays":"5",
+  "stabilityDays": "5",
   "regexManagers": [
      {
        "fileMatch": ["^lib/common.sh$"],
