@@ -27,7 +27,7 @@
   "prConcurrentLimit": 5,
   "rangeStrategy": "bump",
   "renovateFork": true,
-  "includeForks": true,
+  "includeForks": false,
   "stabilityDays":"5",
   "regexManagers": [
      {
